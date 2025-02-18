@@ -1,1 +1,1 @@
-openpyxml>=3.1.5
+openpyxl>=3.1.5
